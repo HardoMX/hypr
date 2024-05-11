@@ -1,2 +1,3 @@
 # Required packages
 - Dunst
+- Cliphist
