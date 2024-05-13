@@ -3,3 +3,6 @@
 - Cliphist
 - Udiskie
 - Rofi-wayland
+- hypridle
+- hyprlock
+- hyprshade
