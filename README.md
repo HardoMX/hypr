@@ -5,4 +5,4 @@
 - Rofi-wayland
 - hypridle
 - hyprlock
-- hyprshade
+- hyprpicker
