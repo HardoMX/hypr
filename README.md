@@ -1,4 +1,4 @@
-# Required packages
+# Required programs
 - Dunst
 - Cliphist
 - Udiskie
@@ -6,3 +6,4 @@
 - hypridle
 - hyprlock
 - hyprpicker
+- Thunar
