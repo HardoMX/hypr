@@ -1,9 +1,19 @@
 # Required programs
+- Hyprland
+    - SDDM
+    - hypridle
+    - hyprlock
+    - hyprpicker
 - Dunst
 - Cliphist
 - Udiskie
-- Rofi-wayland
-- hypridle
-- hyprlock
-- hyprpicker
 - Thunar
+- walker
+    - elephant
+    - elephant-providerlist
+    - elephant-desktopapplications
+    - elephant-archlinuxpkgs
+    - elephant-calc
+    - elephant-clipboard
+    - elephant-websearch
+    - elephant-runner
