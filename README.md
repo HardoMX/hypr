@@ -4,6 +4,7 @@
     - hypridle
     - hyprlock
     - hyprpicker
+    - hyprshot
 - Dunst
 - Cliphist
 - Udiskie
