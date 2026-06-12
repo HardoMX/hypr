@@ -21,7 +21,7 @@ hl.monitor({
 hl.monitor({
     output = "desc: LG Electronics LG TV SSCR2 0x01010101",
     mode = "3840x2160@120",
-    position = "0x0",
+    position = "auto",
     scale = 1.2,
     bitdepth = 10,
     cm = "hdr",
