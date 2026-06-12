@@ -7,7 +7,7 @@ local fileManager = "thunar"
 local menu = "walker"
 local browser = "firefox-developer-edition"
 
-hl.bind("SUPER + Q", hl.dsp.exec_cmd(terminal))
+hl.bind("SUPER + Q", hl.dsp.exec_cmd("env -u WAYLAND_DISPLAY " .. terminal))
 hl.bind("SUPER + C", hl.dsp.window.close())
 hl.bind("SUPER + SHIFT + M",
     hl.dsp.exec_cmd("command -v hhyprshutdown >/dev/null 2>&1 && hyprshutdown || hyprctl dispatch 'hl.dsp.exit()'"))
